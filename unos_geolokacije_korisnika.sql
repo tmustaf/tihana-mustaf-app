@@ -1,0 +1,1 @@
+INSERT INTO public."Lokacije_geometry" ("geom", "Ime i prezime", "Datum") VALUES (ST_PointFromText('POINT(44.4719237 16.12123)', 4326), 'Testni korisnik', CURRENT_DATE);

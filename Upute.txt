@@ -1,0 +1,6 @@
+1. Preuzeti zip file i sql datoteku te importati preko pgadmina.(ili cmd-a)
+2. Otvoriti server.js datoteku i kod spajanja na bazu promjeniti "naziv_baze" i "password" na temelju vlastite baze
+3. Preuzeti i instalirati Node.js najnoviju verziju 
+4. Otvoriti terminal s putanjom foldera gdje se nalazi aplikacija
+5. U terminal upisati npm start
+6. Otvoriti localhost:8000
